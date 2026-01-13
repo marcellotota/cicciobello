@@ -1,0 +1,1 @@
+{ 	"name": "Cicciobello Los Angeles Sept 25", 	"start_url": "../index.html?standalone=1", 	"display": "standalone", 	"background_color": "#ededed", 	"description": "", 	"icons": [ 		{ 			"src": "images/icon.png", 			"sizes": "1024x1024", 			"type": "image/png", 			"purpose": "any maskable" 		} 	] }
